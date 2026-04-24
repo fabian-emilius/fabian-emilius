@@ -14,14 +14,6 @@ Founded AtomicHub and helped grow it into one of the leading NFT marketplace eco
 
 Built core pieces of the ecosystem from scratch, including the AtomicAssets NFT standard, AtomicMarket shared liquidity model, and open source indexing infrastructure that enabled other products and marketplaces to build on top.
 
-## 📈 Scale
-
-- $10M+ total revenue
-- $560M trading volume
-- 2M monthly active users
-- Built and scaled teams around product and engineering
-- Reported benchmark gains of up to +113% at Sequa
-
 ## 🌐 Links
 
 [Portfolio](https://fabianemilius.com) • [LinkedIn](https://www.linkedin.com/in/fabian-emilius)
