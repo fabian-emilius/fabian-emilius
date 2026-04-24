@@ -1,5 +1,3 @@
-# Fabian Emilius
-
 Developer, technical founder, and hands-on builder in the AI space.
 
 I like building ambitious software products from scratch, shipping fast, and scaling the technology and teams behind them. My background combines deep technical execution with product thinking and company building.
@@ -24,14 +22,6 @@ Built core pieces of the ecosystem from scratch, including the AtomicAssets NFT 
 - Built and scaled teams around product and engineering
 - Reported benchmark gains of up to +113% at Sequa
 
-## 🧠 I enjoy working on
-
-- AI products
-- developer tools
-- backend architecture
-- product systems
-- scaling from zero to real adoption
-
 ## 🌐 Links
 
-[Website](https://fabianemilius.com) • [LinkedIn](https://www.linkedin.com/in/fabian-emilius)
+[Portfolio](https://fabianemilius.com) • [LinkedIn](https://www.linkedin.com/in/fabian-emilius)
